@@ -1,4 +1,4 @@
-module github.com/sanbornm/go-selfupdate
+module github.com/josephschmitt/go-selfupdate
 
 go 1.15
 
